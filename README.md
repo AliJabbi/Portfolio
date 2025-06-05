@@ -88,9 +88,13 @@ Used Excel PivotTables and formulas to analyze key metrics:
 
 ### 💡 Recommendations
 
-- Focus marketing efforts on high-performing regions (U.S., Ireland)
-- Offer loyalty programs to top customers
-- Promote espresso and premium blends in lower-performing countries
+📈 Prioritize Liberica — top seller in 2022–2023 with strong growth potential.
+
+🔁 Continue supporting Arabica — best performer in 2020–2022 showing consistent demand.
+
+📉 Reevaluate Robusta — consistently lowest sales; explore ways to boost interest or reduce inventory.
+
+📊 Monitor sales trends regularly to stay aligned with customer preferences and update marketing and inventory strategies.
 
 
 
