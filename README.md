@@ -54,8 +54,8 @@ Used Excel PivotTables and formulas to analyze key metrics:
 - **Slicers** – Added interactive slicers for Product Type, Country, and Customer
 
 #### Example Formulas Used:
-- `=XLOOKUP([@Product_ID], Products[Product_ID], Products[Product_Name])`
-- `=INDEX(Products[Product_Name], MATCH([@Product_ID], Products[Product_ID], 0))`
+- `=XLOOKUP(C2,customers!$A$1:$A$1001,customers!$G$1:$G$1001,,0)`
+- `=INDEX(products!$A$1:$G$49,MATCH(orders!$D2,products!$A$1:$A$49,0),MATCH(orders!J$1,products!$A$1:$G$1,0))`
 
 
 
