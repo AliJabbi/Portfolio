@@ -73,6 +73,14 @@ Used Excel PivotTables and formulas to analyze key metrics:
 
 ### Results/Findings
 
+- Total sales steadily increased year-over-year from 2019–2020 to 2022–2023  
+- Each year had a different top-performing coffee type:
+  - **2019–2020:** Excelsa led in sales  
+  - **2020–2021:** Arabica became the top seller  
+  - **2021–2022:** Arabica continued as the top-performing coffee  
+  - **2022–2023:** Liberica took the lead  
+- **Robusta consistently had the lowest sales** across all four years 
+
 
 
 
