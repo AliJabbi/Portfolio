@@ -80,7 +80,7 @@ Used Excel PivotTables and formulas to analyze key metrics:
 
 ### 💡 Recommendations
 
-- Focus marketing efforts on high-performing regions (U.S., Canada)
+- Focus marketing efforts on high-performing regions (U.S., Ireland)
 - Offer loyalty programs to top customers
 - Promote espresso and premium blends in lower-performing countries
 
