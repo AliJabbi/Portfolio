@@ -4,6 +4,8 @@
 
 This project
 
+
+
 ### Data Sources
 
 Coffee Sales data: The primary dataset used for this analysis is the "Coffee Orders Data Full Project.xlsx" file, containing detailed information about each sales made by the company. 
