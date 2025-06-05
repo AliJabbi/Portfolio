@@ -78,8 +78,11 @@ Used Excel PivotTables and formulas to analyze key metrics:
 
 
 
-### Recommendations
+### 💡 Recommendations
 
+- Focus marketing efforts on high-performing regions (U.S., Canada)
+- Offer loyalty programs to top customers
+- Promote espresso and premium blends in lower-performing countries
 
 
 
