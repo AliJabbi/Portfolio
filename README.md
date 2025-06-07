@@ -12,7 +12,7 @@ This is an Excel dashboard I built to analyze coffee sales data across different
 
 ### Data Sources
 - `Coffee Sales Project.xlsx` – contains three sheets: `Orders`, `Customers`, and `Products`, used to create the dashboard.
-- Note: This is a fictional dataset created for learning and practice purposes.
+- Note: This is a simulated dataset used for academic and skill development purposes.
  
 
 ### Tools
